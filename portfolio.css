@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Special+Elite|Open+Sans');
+
+html {
+    text-align: center;
+    background-image: url(background.png);
+    object-fit: cover;
+    width: auto;
+    height: auto;
+    
+    
+}
+
+body {
+    background-size: cover;
+    background-color: rgba(59,137,225,0.7);
+    margin: 0;
+    padding: 0;
+    
+}
+
+h1 {
+    font-family: 'Special Elite', cursive;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: blue;
+    
+}
+
+p {
+    font-family: 'Open Sans', cursive;
+    padding-left: 160px;
+    font-size-adjust: auto;
+    text-align: left;
+    padding-right: 160px;
+    
+}
+
+h2 {
+    font-family: 'Special Elite' cursive;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: rgba(47,112,216,0.7);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.button {
+    font-family: cursive;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+
+
+#imoge {
+  width: 500px;
+  margin-top:90px;
+  margin-left: auto; 
+  margin-right: auto;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+#imoji{
+  width: 500px;
+  margin-top:90px;
+  margin-left: auto; 
+  margin-right: auto;
+  padding-left: 200px;
+  padding-right: 200px;
+
+
+}
+
+
+
+
